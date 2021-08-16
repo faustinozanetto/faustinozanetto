@@ -1,5 +1,3 @@
-#faustinozanetto
-
 # Hi I'm Faustino Zanetto 👋
 
 Welcome to my profile! I´m an 18 years old guy who fell in love with coding several years ago, passionate swimmer and creative person.
