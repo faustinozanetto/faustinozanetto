@@ -7,7 +7,7 @@ Welcome to my profile! I´m an 18 years old guy who fell in love with coding sev
 <ul>
 <li>Born on 10th February 2003, yes I am 18 years old!</li>
 <li>I´m currently living in Argentina 🇦🇷</li>
-<li>I´ve started coding with Minecraft Plugins back in 2013, it´s been a long time.</li>
+<li>I´ve started coding with Minecraft Plugins back in 2014, it´s been a long time.</li>
 </ul>
 
 # 💻 Technologies I am familiar with:
