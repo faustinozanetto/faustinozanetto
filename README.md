@@ -5,7 +5,7 @@ Welcome to my profile! I´m an 18 years old guy who fell in love with coding sev
 # 👓 About me
 
 <ul>
-<li>Born on 10th February 2003, yes I am 18 years old!</li>
+<li>Born on 10th February 2003, yes I am 19 years old!</li>
 <li>I´m currently living in Argentina 🇦🇷</li>
 <li>I´ve started coding with Minecraft Plugins back in 2014, it´s been a long time.</li>
 </ul>
@@ -18,8 +18,8 @@ Welcome to my profile! I´m an 18 years old guy who fell in love with coding sev
   <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge-round&logo=javascript&logoColor=white"/>
   <img alt="Prisma ORM" src="https://img.shields.io/badge/-Prisma-38A169?style=for-the-badge-round&logo=prisma&logoColor=white" />
   <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=for-the-badge-round&logo=apollo-graphql&logoColor=white" />
-    <img alt="Yarn" src="https://img.shields.io/badge/-Yarn-CB3837?style=for-the-badge-round&logo=yarn&logoColor=white" />
-   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge-round&logo=sass&logoColor=white" />
+  <img alt="Yarn" src="https://img.shields.io/badge/-Yarn-CB3837?style=for-the-badge-round&logo=yarn&logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge-round&logo=sass&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=for-the-badge-round&logo=heroku&logoColor=white" />
   <img alt="Postgres SQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge-round&logo=postgresql&logoColor=white"/>
   <img alt="Next JS" src="https://img.shields.io/badge/-NextJS-007ACC?style=for-the-badge-round&logo=vercel&logoColor=white"/>
@@ -28,9 +28,6 @@ Welcome to my profile! I´m an 18 years old guy who fell in love with coding sev
   <img alt="Java" src="https://img.shields.io/badge/-Java-EC4A3F?style=for-the-badge-round&logo=java&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge-round&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge-round&logo=npm&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge-round&logo=html5&logoColor=white" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=for-the-badge-round&logo=prettier&logoColor=white" />
-
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge-round&logo=Node.js&logoColor=white" />
 </p>
 
